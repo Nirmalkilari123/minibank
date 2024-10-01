@@ -1,0 +1,32 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .env files
+.env
+env/
+**/set.cmd
+
+# Ignore log files
+*.log
+*.doc.ts
+
+# Ignore log files
+.scannerwork
+
+# Ignore compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+.husky/
+dist/
+logs/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+#Ignore Serverless files
+.serverless/
+.webpack
