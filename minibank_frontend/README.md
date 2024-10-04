@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 1. Clone the project
 
 ```bash
-  git clone https://github.com/Nirmalkilari123/minibank/tree/main/minibank_frontend
+  git clone git clone https://github.com/Nirmalkilari123/minibank.git
   cd minibank_frontend
 ```
 
