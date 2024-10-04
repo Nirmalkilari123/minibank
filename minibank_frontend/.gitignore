@@ -20,9 +20,6 @@
 .DS_Store
 *.pem
 
-#sonarqube
-.scannerwork
-
 # debug
 npm-debug.log*
 yarn-debug.log*
@@ -30,7 +27,6 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env
 
 # vercel
 .vercel
