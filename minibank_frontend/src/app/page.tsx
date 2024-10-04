@@ -5,9 +5,9 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>
+    <div className='flex flex-col h-screen'>
         <Header />
-        <main>
+        <main className='flex-grow'>
             <LandingHomePage/>
         </main>
         <Footer />
