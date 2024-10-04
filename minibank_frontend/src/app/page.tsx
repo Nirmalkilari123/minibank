@@ -1,6 +1,6 @@
 import Footer from '@/components/Footer/Footer'
 import Header from '@/components/Header/Header'
-import Homes from '@/components/Homes/Homes'
+import LandingHomePage from '@/components/LandingHomePage/LandingHomePage'
 import React from 'react'
 
 const page = () => {
@@ -8,7 +8,7 @@ const page = () => {
     <div>
         <Header />
         <main>
-            <Homes/>
+            <LandingHomePage/>
         </main>
         <Footer />
     </div>
