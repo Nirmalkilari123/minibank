@@ -11,7 +11,7 @@ const Footer = () => {
 
 
   return (
-    <footer className="bg-sunshine-yellow  p-8 mt-8">
+    <footer className="bg-lime-500  p-8 mt-8">
       <div className="max-w-screen-xl flex flex-col justify-evenly gap-4 lg:flex-row items-center lg:items-start mx-auto">
         <div className="flex flex-col items-center lg:items-start gap-3">
           <div className="flex items-center gap-2 md:gap-4 lg:gap-8">
@@ -43,7 +43,7 @@ const Footer = () => {
               <span className="underline cursor-pointer medium-text-bold">
                 Register
               </span>{" "}
-              Your Business with little moments
+              Your MiniBank Account Here
             </p>
           )}
         </div>
