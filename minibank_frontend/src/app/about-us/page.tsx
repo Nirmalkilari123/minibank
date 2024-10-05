@@ -2,9 +2,10 @@ import React from "react";
 import Heading from "@/layouts/AboutUsPage/AboutUsHeadingPage";
 import AboutPageDescription from "@/layouts/AboutPageDescription";
 import AboutUsDescription from "@/components/AboutUs/AboutUsDescription";
+import XplosFooter from "@/components/Footer/XplosFooter";
 const page = () => {
   return (
-    <div className="bg-lime-500">
+    <div>
       <div className="margin">
         <Heading heading={"AboutUs"} />
         <div className="text-center">
@@ -12,6 +13,7 @@ const page = () => {
         </div>
       </div>
       <AboutPageDescription />
+      <XplosFooter />
     </div>
   );
 };
