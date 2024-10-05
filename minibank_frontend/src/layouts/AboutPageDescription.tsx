@@ -4,8 +4,8 @@ import { descriptions } from '@/services/Utilities/functionalities/AboutUsDescri
 
 const AboutPageDescription = () => {
   return (
-    <div className="">
-      <div className="py-8 px-8 md:py-20 md:px-20">
+    <div>
+      <div>
         <div>
           {descriptions.map((item, index) => (
             <div className="px-5 py-5" key={index}>

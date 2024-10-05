@@ -1,5 +1,5 @@
 "use client"
-import React, { useContext } from "react"
+import React from "react"
 import Image from "next/image"
 import logo from "@/assets/Images/logo.png"
 import Link from "next/link"
@@ -58,6 +58,16 @@ const Footer = () => {
             <li className="py-2 whitespace-nowrap ">
               <Link href={"/terms-and-conditions"}>Terms & Conditions</Link>
             </li>
+            <li className="py-2 whitespace-nowrap ">
+              <Link href={"/terms-and-conditions"}>Contact Us</Link>
+            </li>
+            <li className="py-2 whitespace-nowrap ">
+              <Link href={"/terms-and-conditions"}>FAQ</Link>
+            </li>
+            <li className="py-2 whitespace-nowrap ">
+              <Link href={"/terms-and-conditions"}>Disclaimer</Link>
+            </li>
+            
           
           </ul>
         </div>

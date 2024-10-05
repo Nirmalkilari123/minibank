@@ -6,7 +6,7 @@ type descriptionProp={
 const AboutUsDescription:React.FC<descriptionProp>= ({description1}) => {
   return (
     <div>
-        <p>{description1}</p>
+        <p className='medium-text-bold py-10'>{description1}</p>
     </div>
   )
 }
