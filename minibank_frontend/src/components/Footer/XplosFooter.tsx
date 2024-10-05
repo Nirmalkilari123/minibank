@@ -55,7 +55,7 @@ const XplosFooter = () => {
           <li className="py-2 whitespace-nowrap ">
             <Link href={"/terms-and-conditions"}>Terms & Conditions</Link>
           </li>
-          <div className="">
+          <div className="px-3 py-5">
           <li className="py-2 whitespace-nowrap ">
             <Link href={"/terms-and-conditions"}>Contact Us</Link>
           </li>
