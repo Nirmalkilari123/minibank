@@ -35,7 +35,7 @@ const config: Config = {
       boxShadow: {
         primary: "6px 6px 0 #FFFFFF",
         secondary: "6px 6px 0 #000000",
-        "sunshine-yellow": "6px 6px 0 #FFC52F",
+        "sunshine-yellow": "6px 6px 0 #2EF020",
         "royal-blue": "6px 6px 0 #4132F0",
         "lime-green": "6px 6px 0 #B6D462",
         "sky-blue": "6px 6px 0 #6F8FE3",
